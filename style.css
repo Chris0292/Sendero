@@ -1,3 +1,11 @@
+/*Background*/
+
+body {
+  background-color: #ffffff;
+}
+
+
+
 /*Barra de Navegacion*/
 .nav-item {
     font-size: 20px ;
