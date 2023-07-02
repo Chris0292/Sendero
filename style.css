@@ -7,27 +7,11 @@ body {
 
 
 /*Barra de Navegacion*/
-.nav-item {
-    font-size: 20px ;
-    margin-right: 40px;
-    margin-left: 40px;
-    align-items: center;
-    justify-content: space-between;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+a:is(:link, :active, :visited).active {
+  color: blue;
+  background-color: green;
 
-#Agendar-cita {
-    background-color: #0045A4;
-    border-color: transparent;
-    font-size: 18px;
-    margin-left: 10px;
-    margin-right: 10px;
 }
-
-#navbarNav {
-    justify-content: space-between;
-}
-
 
 /*footer*/
 

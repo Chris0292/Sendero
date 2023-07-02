@@ -1,3 +1,6 @@
+
+
+
 // El documento debe cargarse antes de ejecutar el codigo JS
 $(document).ready(function () {
     // Cuando el usuario envia el formulario, ejecutar esta funcion
