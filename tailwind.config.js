@@ -7,6 +7,10 @@ module.exports = {
       "blue-pry": "#0045A4",
       "dark-blue-pry": "#051831",
     },
+    fontFamily: {
+      'readex': ['Readex Pro', 'sans-serif'],
+      'poppins': ['Poppins', 'sans-serif']
+    }
   },
   plugins: [],
 }
